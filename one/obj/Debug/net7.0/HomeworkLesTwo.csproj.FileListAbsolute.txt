@@ -1,0 +1,15 @@
+C:\Users\Vludisluv\Desktop\Gb\HomeworkLesTwo\obj\Debug\net7.0\HomeworkLesTwo.csproj.AssemblyReference.cache
+C:\Users\Vludisluv\Desktop\Gb\HomeworkLesTwo\obj\Debug\net7.0\HomeworkLesTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vludisluv\Desktop\Gb\HomeworkLesTwo\obj\Debug\net7.0\HomeworkLesTwo.AssemblyInfoInputs.cache
+C:\Users\Vludisluv\Desktop\Gb\HomeworkLesTwo\obj\Debug\net7.0\HomeworkLesTwo.AssemblyInfo.cs
+C:\Users\Vludisluv\Desktop\Gb\HomeworkLesTwo\obj\Debug\net7.0\HomeworkLesTwo.csproj.CoreCompileInputs.cache
+C:\Users\Vludisluv\Desktop\Gb\HomeworkLesTwo\bin\Debug\net7.0\HomeworkLesTwo.exe
+C:\Users\Vludisluv\Desktop\Gb\HomeworkLesTwo\bin\Debug\net7.0\HomeworkLesTwo.deps.json
+C:\Users\Vludisluv\Desktop\Gb\HomeworkLesTwo\bin\Debug\net7.0\HomeworkLesTwo.runtimeconfig.json
+C:\Users\Vludisluv\Desktop\Gb\HomeworkLesTwo\bin\Debug\net7.0\HomeworkLesTwo.dll
+C:\Users\Vludisluv\Desktop\Gb\HomeworkLesTwo\bin\Debug\net7.0\HomeworkLesTwo.pdb
+C:\Users\Vludisluv\Desktop\Gb\HomeworkLesTwo\obj\Debug\net7.0\HomeworkLesTwo.dll
+C:\Users\Vludisluv\Desktop\Gb\HomeworkLesTwo\obj\Debug\net7.0\refint\HomeworkLesTwo.dll
+C:\Users\Vludisluv\Desktop\Gb\HomeworkLesTwo\obj\Debug\net7.0\HomeworkLesTwo.pdb
+C:\Users\Vludisluv\Desktop\Gb\HomeworkLesTwo\obj\Debug\net7.0\HomeworkLesTwo.genruntimeconfig.cache
+C:\Users\Vludisluv\Desktop\Gb\HomeworkLesTwo\obj\Debug\net7.0\ref\HomeworkLesTwo.dll
